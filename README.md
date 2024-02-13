@@ -2,7 +2,7 @@
 
 ## Description 📜
 
-The educational project containing a schematic of the electrical connections of a product packaging line.
+The educational project containing a schematic of the electrical connections of a product packaging line. The project was created using the SEE Electrical V8R4 environment.
 
 ## Contributors 🤝
 
